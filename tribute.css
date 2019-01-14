@@ -1,14 +1,19 @@
-body {
-  margin-top: 40px;
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+.container {
+    width: 80%;
+    margin: auto;
 }
+
 h1 {
-  font-family: Sans-serif, Helvetica;
-  font-color: white;
+  font-family: "Lobster", "Sans-serif", "Helvetica";
+  font-size: 3em;
 }
-.smaller-img {
-  width: 100px;
-  border-radius: 50%;
-}
-.bigger-img {
-  width: 100%;
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
 }
