@@ -1,0 +1,14 @@
+body {
+  margin-top: 40px;
+}
+h1 {
+  font-family: Sans-serif, Helvetica;
+  font-color: white;
+}
+.smaller-img {
+  width: 100px;
+  border-radius: 50%;
+}
+.bigger-img {
+  width: 100%;
+}
